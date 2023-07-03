@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=CounterQueues
+comment1.params=
+comment1.target=CounterQueues()
+comment2.params=
+comment2.target=java.util.Queue\ getCounter1Queue()
+comment3.params=
+comment3.target=java.util.Queue\ getCounter2Queue()
+comment4.params=
+comment4.target=java.util.Queue\ getCounter3Queue()
+comment5.params=counterNumber
+comment5.target=java.util.Queue\ getQueueByCounterNumber(int)
+numComments=6

@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=CheckoutSystem
+comment1.params=
+comment1.target=CheckoutSystem()
+comment10.params=
+comment10.target=void\ displayCompleteStackDetails()
+comment2.params=filePath
+comment2.target=void\ readInputFile(java.lang.String)
+comment3.params=
+comment3.target=void\ processCustomers()
+comment4.params=
+comment4.target=void\ displayCounterDetails()
+comment5.params=customer
+comment5.target=void\ displayCustomerDetails(CustomerInformation)
+comment6.params=
+comment6.target=void\ processPayments()
+comment7.params=customer
+comment7.target=void\ addNewCustomer(CustomerInformation)
+comment8.params=customer
+comment8.target=void\ removeCustomerFromQueue(CustomerInformation)
+comment9.params=counterNumber
+comment9.target=java.util.Queue\ getQueueByCounterNumber(int)
+numComments=11

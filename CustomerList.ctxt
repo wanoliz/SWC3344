@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=CustomerList
+comment1.params=
+comment1.target=CustomerList()
+comment2.params=customer
+comment2.target=void\ addCustomer(CustomerInformation)
+comment3.params=
+comment3.target=java.util.LinkedList\ getCustomers()
+comment4.params=customerId
+comment4.target=CustomerInformation\ getCustomerById(int)
+comment5.params=customerId
+comment5.target=void\ removeCustomerById(int)
+numComments=6
